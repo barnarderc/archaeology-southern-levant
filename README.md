@@ -1,1 +1,1 @@
-# archaeology-southern-levant
+# This repository includes documentation and resources for the introduction to QGIS workshops developed by the Empirical Reasoning Center. 
